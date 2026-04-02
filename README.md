@@ -49,42 +49,6 @@ I am strongest where product ambiguity, engineering complexity, and operational 
   <img src="https://img.shields.io/badge/Production_Reach-200k%2B_Users-0f766e?style=for-the-badge" />
 </p>
 
----
-
-## Selected Projects
-
-### Collab
-AI-assisted collaboration platform with project-aware workflows, shared context, and grounded assistant behaviour.
-
-**Stack**  
-`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Qdrant` `Google ADK` `LiteLLM` `OpenRouter API`
-
-### Octopus
-AI-powered GitHub review assistant for automated pull request reviews, bug detection, and structured code feedback.
-
-**Stack**  
-`TypeScript` `Node.js` `AWS Lambda` `DynamoDB` `Qdrant` `GitHub API` `RAG`
-
-### NonaAI
-Voice AI workflow combining speech-to-text, retrieval, and response generation for support operations.
-
-**Stack**  
-`Google ADK` `Qdrant` `RAG` `TypeScript` `PostgreSQL` `WebSockets`
-
-### Achievex
-AI-driven engagement platform that turns behavioural data into rewards, streaks, activation flows, and AI-assisted retention mechanics.
-
-**Stack**  
-`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Qdrant` `OpenRouter API` `GitHub Actions` `Cloudflare` `Custom Agents`
-
-### Clogg
-Developer tooling that converts repository activity and release history into structured changelogs.
-
-**Stack**  
-`NestJS` `TypeScript` `PostgreSQL` `Docker` `GitHub Actions` `Pinecone` `Google ADK` `LiteLLM`
-
----
-
 ## Core Stack
 
 ### AI / Architecture
@@ -119,13 +83,4 @@ Developer tooling that converts repository activity and release history into str
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erdenizko&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdenizko&layout=compact&hide_border=true&hide_progress=true" />
 </p>
