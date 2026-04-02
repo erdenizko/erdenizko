@@ -35,13 +35,13 @@ I am strongest where product ambiguity, engineering complexity, and operational 
 ## Selected Impact
 
 <p>
-  <img src="https://img.shields.io/badge/Helpdesk_Resolution-1h_20m_%E2%86%92_7m-16a34a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Customer_Wait_Time-4m_%E2%86%92_5s-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Helpdesk_Resolution-1hour_20minutes_%E2%86%92_7minutes-16a34a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Customer_Wait_Time-4minutes_%E2%86%92_5seconds-2563eb?style=for-the-badge" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/AI_Operating_Cost-~80%25_Reduction-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Release_Documentation-3h_%E2%86%92_20m-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Release_Documentation-3hours_%E2%86%92_20minutes-f59e0b?style=for-the-badge" />
 </p>
 
 <p>
